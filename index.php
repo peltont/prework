@@ -3,7 +3,7 @@
 		<title>Completed Prework.</title>
 	</head>
 	<body>
-		<p>I completed the prework.  sorta</p>
+		<p>I completed the prework.  sorta...</p>
 		<?php
 		$username ="Trevor Pelton";
 		echo $username;
