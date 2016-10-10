@@ -1,10 +1,14 @@
 <html>
 	<head>
-		<title>Completed Prework</title>
+		<title></title>
 	</head>
 	<body>
 		<?php
-		echo "hello world";
+		$username ="Trevor Pelton";
+		echo $username;
+		echo "<br>";
+		$current_user = $username;
+		echo $current_user;
 		?>
 	</body>
 </html>
