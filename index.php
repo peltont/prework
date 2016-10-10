@@ -6,10 +6,10 @@
 		<p>I completed the prework.  sorta...</p>
 		<?php
 		$username ="Trevor Pelton";
-		echo $username;
-		echo "<br>";
-		$current_user = $username;
-		echo $current_user;
+		function longdate($timestamp)
+		{return date("l F jS T", $timestamp);
+		}
+		echo longdate(time());
 		?>
 	</body>
 </html>
