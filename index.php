@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Completed Prework</title>
+		<title>Completed Prework.</title>
 	</head>
 	<body>
 		<p>I completed the prework.  sorta</p>
